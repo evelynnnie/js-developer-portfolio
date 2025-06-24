@@ -17,13 +17,24 @@
       },
       {
         "name": "JavaScript",
+<<<<<<< HEAD
+        "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/js.png?raw=true"
+=======
         "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/js.png"
+>>>>>>> 28cf7be65fc60e236778563c078396c1303c5be5
       },
       {
         "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
+        "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/react.png?raw=true"
       },
       {
+<<<<<<< HEAD
+        "name": "Node.Js",
+        "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/nodejs.png?raw=true"
+      },
+      {
+=======
+>>>>>>> 28cf7be65fc60e236778563c078396c1303c5be5
         "name": "Git",
         "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/git.png?raw=true"
       }
@@ -42,31 +53,44 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Spider Man - Multiversos",
+      "url": "https://github.com/evelynnnie/Spider-Man_Multiversos",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Jogo da Memória com Emojis",
+      "url": "https://github.com/evelynnnie/Jogo-da-memoria-com-Emojis",
+      "github": true
+    },
+    {
+      "name": "Jo-Ken-Po yu-Gi-Oh",
+      "url": "https://github.com/evelynnnie/Jo-Ken-Po_Yu-Gi-Oh",
+      "github": true
+    },
+    {
+      "name": "Piano Virtual",
+      "url": "https://github.com/evelynnnie/Piano-Virtual",
       "github": true
     }
   ],
-  "professionalExperience": [
+  "certifications": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Google IT Support Professional Certificate",
+      "issuer": "Coursera/Google",
+      "period": "Março 2025",
+      "description": "Certificação em suporte de TI."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Google Cybersecurity Professional Certificate ",
+      "issuer": "Coursera/Google",
+      "period": "Abril 2025",
+      "description": "Certificação em Cybersegurança."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Ri Happy - Front-end do Zero",
+      "issuer": "DIO",
+      "period": "Junho 2025",
+      "description": "Bootcamp da DIO."
     }
   ]
 }

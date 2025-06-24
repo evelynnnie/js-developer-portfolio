@@ -49,14 +49,14 @@ function updatePortfolio(profileData) {
     }).join('')
 }
 
-function updateProfessionalExperience(profileData) {
-    const professionalExperience = document.getElementById('profile.professionalExperience')
-    professionalExperience.innerHTML = profileData.professionalExperience.map(experience => {
+function updateCertifications(profileData) {
+    const certifications = document.getElementById('profile.certifications')
+    certifications.innerHTML = profileData.certifications.map(cert => {
         return `
             <li>
-                <h3 class="title">${experience.name}</h3>
-                <p class="period">${experience.period}</p>
-                <p>${experience.description}</p>
+                <h3 class="title">${cert.name}</h3>
+                <p class="period">${cert.period} - ${cert.issuer}</p>
+                <p>${cert.description}</p>
             </li>
         `
     }).join('')
@@ -69,5 +69,5 @@ function updateProfessionalExperience(profileData) {
     updateHardSkills(profileData)
     updateLanguages(profileData)
     updatePortfolio(profileData)
-    updateProfessionalExperience(profileData)
+    updateCertifications(profileData)
 })()
