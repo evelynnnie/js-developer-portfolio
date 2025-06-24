@@ -17,24 +17,17 @@
       },
       {
         "name": "JavaScript",
-<<<<<<< HEAD
         "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/js.png?raw=true"
-=======
-        "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/js.png"
->>>>>>> 28cf7be65fc60e236778563c078396c1303c5be5
       },
       {
         "name": "React",
         "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/react.png?raw=true"
       },
       {
-<<<<<<< HEAD
         "name": "Node.Js",
         "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/nodejs.png?raw=true"
       },
       {
-=======
->>>>>>> 28cf7be65fc60e236778563c078396c1303c5be5
         "name": "Git",
         "logo": "https://github.com/evelynnnie/js-developer-portfolio/blob/main/data/imgs/git.png?raw=true"
       }
